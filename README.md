@@ -20,8 +20,6 @@
 
 - ⚡ Fun fact: 
   - I am currently studying Computer Engineering, but I already have a degree in Architecture and Urbanism
-  - I play guitar
-  - I have a special talent for rubik's cube
 
 ---
 

@@ -19,7 +19,7 @@
 - 😄 Pronouns: they/them
 
 - ⚡ Fun fact: 
-  - I am currently studying Computer Engineering, but I already have a degree in Architecture and Urbanism
+  - I have a degree in Architecture and Urbanism
 
 ---
 

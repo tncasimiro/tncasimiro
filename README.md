@@ -4,7 +4,6 @@
 - 👀 I’m interested in:
   - Technology and innovations
   - Web development
-  - Artificial intelligence
   - Open source
   - Pop culture and games
 

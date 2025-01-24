@@ -15,8 +15,6 @@
   - API development
   - Cloud Computing (AWS, Azure)
 
-- 😄 Pronouns: they/them
-
 - ⚡ Fun fact: 
   - I have a degree in Architecture and Urbanism
 

@@ -14,6 +14,7 @@
   - C#
   - API development
   - Cloud Computing (AWS, Azure)
+  - **OutSystems Reactive**
 
 - ⚡ Fun fact: 
   - I have a degree in Architecture and Urbanism

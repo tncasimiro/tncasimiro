@@ -21,13 +21,6 @@
 
 ---
 
-## My Favorite Technologies
-- 💻 Languages: Python, C#
-- 🛠️ Tools: Git, VS Code, Visual Studio
-- 📊 Others: SQL, NoSQL
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tncasimiro&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
 

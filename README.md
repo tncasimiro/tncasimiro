@@ -8,13 +8,12 @@
   - Pop culture and games
 
 - 🌱 I’m currently learning:
-  - Python
+  - C#
   - JavaScript
   - HTML/CSS
-  - C#
   - API development
   - Cloud Computing (AWS, Azure)
-  - OutSystems Reactive
+  - OutSystems Traditional Web
 
 - ⚡ Fun fact: 
   - I have a degree in Architecture and Urbanism

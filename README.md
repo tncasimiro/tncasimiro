@@ -1,25 +1,3 @@
-# Hello, I’m @tncasimiro! 👋
-
-## About Me
-- 👀 I’m interested in:
-  - Technology and innovations
-  - Web development
-  - Open source
-  - Pop culture and games
-
-- 🌱 I’m currently learning:
-  - C#
-  - JavaScript
-  - HTML/CSS
-  - API development
-  - Cloud Computing (AWS, Azure)
-  - OutSystems Traditional Web
-
-- ⚡ Fun fact: 
-  - I have a degree in Architecture and Urbanism
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tncasimiro&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
 
